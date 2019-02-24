@@ -6,3 +6,4 @@
 
 ![](./img/19.2-1_1.png)
 
+>>  I beliebe the farthest tree to the right (38)->(41) shouldn't be there :)
